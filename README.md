@@ -7,8 +7,8 @@ Technologies Used:
 1. Blockchain: Ethereum
 2. Smart Contract Language: Solidity
 3. Limit Order Protocol: 1inch Limit Order Protocol
-4. FrontEnd: JavaScript, React.js and Css
-5. Frameworks: Web3 and Moralis.
+4. FrontEnd: JavaScript and Css
+5. Frameworks: Web3, React.js and Moralis.
 
 
 Working of the Application:
